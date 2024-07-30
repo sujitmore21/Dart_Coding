@@ -7,7 +7,7 @@ void main() {
 
   // Create instances of Person
   Person person1 = Person('John Doe', 550000);
-  Person person2 = Person('Jane Smith', 1200000);
+  Person person2 = Person('Jane Smith', 2000000);
 
   // Add people to the tax manager
   taxManager.addPerson(person1);
